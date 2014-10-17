@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myf:home|Door43 (myf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myf|d43-myf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myf/archive/master.zip|d43-myf.zip]]
+
+**Recent Changes**
+{{changes>ns = myf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myf|Ethnologue data]]
+
